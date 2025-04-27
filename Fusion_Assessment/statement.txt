@@ -1,0 +1,5 @@
+The code in this folder is from the following papers:
+[1]C. Li, T. Yang, S. Zhu, C. Chen, and S. Guan, “Density map guided
+object detection in aerial images,” in 2020 IEEE/CVF Conference on
+Computer Vision and Pattern Recognition Workshops (CVPRW), 2020,
+pp. 737–746.
